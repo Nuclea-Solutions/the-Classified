@@ -1,1 +1,2 @@
-11 - 03 - 2025 : jacobo@nuclea.solutions - Diseño de datos, creacion de proyecto en FF, en firebase, paginas logIn, graduaciones.
+11 - 03 - 2025 : jacobo@nuclea.solutions - feat: Diseño de datos, creacion de proyecto en FF, en firebase, paginas logIn, graduaciones.
+12 - 03 - 2025 : jacobo@nuclea.solutions - feat: Detalle de graduaciones
