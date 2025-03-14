@@ -1,3 +1,5 @@
 11 - 03 - 2025 : jacobo@nuclea.solutions - feat: Diseño de datos, creacion de proyecto en FF, en firebase, paginas logIn, graduaciones.
 12 - 03 - 2025 : jacobo@nuclea.solutions - feat: Detalle de graduaciones
 12 - 03 - 2025 : gerardo@nuclea.solutions - Feature: Created widgets for the "Create Graduation" page, Added a DataType to store graduation information in appState, Applied FlutterFlow colors.  
+13 - 03 - 2025 : gerardo@nuclea.solutions - Feature: Converted step progress display into a component, indicating completion status. Created a component for selecting the main bank account. Implemented dynamic component display for the "Crear Graduación" flow.  
+
