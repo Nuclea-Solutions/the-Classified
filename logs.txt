@@ -3,3 +3,4 @@
 12 - 03 - 2025 : gerardo@nuclea.solutions - Feature: Created widgets for the "Create Graduation" page, Added a DataType to store graduation information in appState, Applied FlutterFlow colors.  
 13 - 03 - 2025 : gerardo@nuclea.solutions - Feature: Converted step progress display into a component, indicating completion status. Created a component for selecting the main bank account. Implemented dynamic component display for the "Crear Graduación" flow.  
 14 - 03 - 2025 : gerardo@nuclea.solutions - Feature: Completed the graduation creation page. Started working on the graduation details page for clients. 
+14 - 03 - 2025 : jacobo@nuclea.solutions - feat: generate PDF invitations
