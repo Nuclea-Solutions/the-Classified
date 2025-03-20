@@ -6,3 +6,4 @@
 14 - 03 - 2025 : jacobo@nuclea.solutions - feat: generate PDF invitations
 18 - 03 - 2025 : jacobo@nuclea.solutions - refactor: pdf intitations to imgs
 18 - 03 - 2025 : gerardo@nuclea.solutions - Feature: Completed the graduation details page. Started working on the ticket details and purchasing flow. Created a dropdown for selecting institutions and banks. Added functionality to add new institutions and banks to their respective dropdowns.
+19 - 03 - 2025 : jacobo@nuclea.solutions - feat: Detail graduate, validate tickets, filter gradates list.
