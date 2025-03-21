@@ -8,3 +8,4 @@
 18 - 03 - 2025 : gerardo@nuclea.solutions - Feature: Completed the graduation details page. Started working on the ticket details and purchasing flow. Created a dropdown for selecting institutions and banks. Added functionality to add new institutions and banks to their respective dropdowns.
 19 - 03 - 2025 : jacobo@nuclea.solutions - feat: Detail graduate, validate tickets, filter gradates list.
 19 - 03 - 2025 : gerardo@nuclea.solutions - Update: Updated dropdowns. Created a modal to add office hours. Updated the method for adding institutions.
+20 - 03 - 2025 : jacobo@nuclea.solutions - feat: transaction collections, validate tickets component, add manual graduate
