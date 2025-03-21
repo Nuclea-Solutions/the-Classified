@@ -9,3 +9,4 @@
 19 - 03 - 2025 : jacobo@nuclea.solutions - feat: Detail graduate, validate tickets, filter gradates list.
 19 - 03 - 2025 : gerardo@nuclea.solutions - Update: Updated dropdowns. Created a modal to add office hours. Updated the method for adding institutions.
 20 - 03 - 2025 : jacobo@nuclea.solutions - feat: transaction collections, validate tickets component, add manual graduate
+20 - 03 - 2025 : gerardo@nuclea.solutions - Feature: Created client tickets page and ticket purchase page. Updated dropdowns with search functionality.  
